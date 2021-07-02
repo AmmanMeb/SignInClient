@@ -25,13 +25,14 @@
 
 .float {
   background-color: rgb(255, 255, 255);
-  padding-left: 36vh;
-  padding-top: 20vh;
+  border-radius: 60px;
+  padding-left: 36%;
+  padding-top: 20%;
   padding-bottom: 20vh;
-  margin-left: 30vh;
-  margin-right: 50vh;
-  margin-top: 20vh;
-  padding-right: 0vh;
+  margin-left: 0%;
+  margin-right:14%;
+  margin-top: 5%;
+  padding-right: 0%;
   align-items: center;
 }
 
