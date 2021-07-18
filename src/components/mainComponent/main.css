@@ -24,15 +24,18 @@
 }
 
 .float {
+  position: absolute;
   background-color: rgb(255, 255, 255);
+  top: 35%;
+  left: 35%;
+  right: 10%;
   border-radius: 60px;
-  padding-left: 36%;
-  padding-top: 20%;
-  padding-bottom: 20vh;
-  margin-left: 0%;
-  margin-right:14%;
-  margin-top: 5%;
-  padding-right: 0%;
+  width: 500px;
+  height: 500px;
+}
+.type {
+  padding-top: 30%;
+  padding-left: 20%;
   align-items: center;
 }
 
